@@ -3,7 +3,7 @@ package lexer
 import (
 	"testing"
 
-	"github.com/juliojimenez/sec/token"
+	"github.com/juliojimenez/f-/token"
 )
 
 func TestNextToken(t *testing.T) {

@@ -1,3 +1,3 @@
-module github.com/juliojimenez/sec
+module github.com/juliojimenez/f-
 
 go 1.15
